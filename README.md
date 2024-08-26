@@ -2,7 +2,7 @@
 
 # 🏄‍♂️ Shawn Harden
 
-**`Senior Software Engineer, Project Manager Professional-PMP (Python, AWS, AI, Machine Learning)`**
+**`Senior Software Engineer, Data Scientist (Python, AWS, AI, Machine Learning)`**
 
 I'm A highly skilled and organized Agile Software Developer and certified Project Management Professional (PMP) with over 25 years of IT Software Development Life Cycle (SDLC), Systems Engineering experience including Budget Planning, Scheduling, Risk Assessments, Requirements Analysis/Verification, Software Application Development, Systems Integration and Test.  
 
