@@ -7,7 +7,7 @@
 I'm A highly skilled and organized Agile Software Developer and certified Project Management Professional (PMP) with over 25 years of IT Software Development Life Cycle (SDLC), Systems Engineering experience including Budget Planning, Scheduling, Risk Assessments, Requirements Analysis/Verification, Software Application Development, Systems Integration and Test.  
 
    <p align="left">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
