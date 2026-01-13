@@ -12,7 +12,7 @@ We specialize in secure, high-performance, AI-Powered Web and Mobile application
 ---
 
 ## 📱 Our Applications
-Below is a list of our public documentation and release notes for our active projects.
+Below is a list of our public documentation and release notes for some of our recent projects.
 
 ### 🏥 HealthCare Buddy
 *A comprehensive health tracking solution for Android.*
