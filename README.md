@@ -31,9 +31,9 @@ Below is a list of our public documentation and release notes for some of our re
 
 ### 🧠 Applied Artificial Intelligence
 * **RAG (Retrieval-Augmented Generation):** Designing secure, private vector databases for Android to provide LLMs with local context without compromising user data.
-* **LLM Training & Fine-Tuning:** Customizing small language models (SLMs) for on-device deployment and specialized domain tasks.
-* **AI Algorithm Optimization:** Expert implementation of the **AGM (Accelerated Gradient Method) Algorithm** for faster convergence and reduced computational overhead in mobile training environments.
-* **Hyperparameter Tuning:** Systematic optimization of neural architectures to balance battery efficiency with model accuracy on edge devices.
+* **LLM Training & Fine-Tuning:** Customizing large language models (LLMs) for deployment and specialized domain tasks.
+* **AI Algorithm Optimization:** Expert implementation of the **AGM (Accelerated Gradient Method) Algorithm** for faster convergence and reduced computational overhead in training environments.
+* **Hyperparameter Tuning:** Systematic optimization of neural architectures to balance limited resources with model accuracy.
 
 ### 📱 Premium Android Engineering
 * **Privacy-First Architecture:** Leveraging automated CI/CD pipelines to maintain 100% compliance with 2026 Google Play Data Safety standards.
