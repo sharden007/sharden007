@@ -40,7 +40,7 @@ Below is a list of our public documentation and release notes for some of our re
 * **Low-Latency Performance:** Optimizing memory management and CPU utilization for real-time AI inference.
 ## 🛡️ Privacy & Compliance
 All our applications are developed with a "Privacy-First" architecture. 
-* Verified New Jersey LLC.
+* Verified New Jersey LLC. (5+ years)
 * Fully compliant with Google Play 2026 Data Safety requirements.
 * Zero unauthorized data collection policies.
 
