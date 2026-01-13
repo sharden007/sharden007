@@ -1,8 +1,8 @@
 
-# [Your LLC Name] - Android Development Suite
+# Harden Business Consulting LLC - Android Development Suite
 
-Welcome to the official catalog for **[Your LLC Name]**, a New Jersey-based mobile development firm. 
-We specialize in secure, high-performance Android applications.
+Welcome to the official catalog for the **Harden Business Consulting LLC**, a New Jersey-based AI driven software development firm. 
+We specialize in secure, high-performance, AI-Powered Web and Mobile applications.
 
 ---
 
@@ -30,17 +30,17 @@ All our applications are developed with a "Privacy-First" architecture.
 
 ## ✉️ Contact & Business Inquiries
 * **Website:** [www.yourllc.com](https://www.yourllc.com)
-* **Support Email:** [support@yourllc.com]
-* **LinkedIn:** [Your Profile Link]
+* **Support Email:** [sharden007@gmail.com]
+* **LinkedIn:** [(https://www.linkedin.com/in/shawnharden/)}
 
 
-## Hi there 👋
+## About Me 👋
 
 # 🏄‍♂️ Shawn Harden
 
 **`Senior Software Engineer, Data Scientist (Python, AWS, AI, Machine Learning)`**
 
-I'm A highly skilled and organized Agile Software Developer and certified Project Management Professional (PMP) with over 25 years of IT Software Development Life Cycle (SDLC), Systems Engineering experience including Budget Planning, Scheduling, Risk Assessments, Requirements Analysis/Verification, Software Application Development, Systems Integration and Test.  
+I'm A highly skilled and organized Agile Software Developer and certified Project Management Professional (PMP) with over 28 years of IT Software Development Life Cycle (SDLC), Systems Engineering experience including Budget Planning, Scheduling, Risk Assessments, Requirements Analysis/Verification, Software Application Development, Systems Integration and Test.  
 
    <p align="left">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
