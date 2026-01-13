@@ -4,7 +4,7 @@
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 
-# Harden Business Consulting LLC - Android Development Suite
+# Harden Business Consulting LLC - Software Development Suite
 
 Welcome to the official catalog for the **Harden Business Consulting LLC**, a New Jersey-based AI driven software development firm. 
 We specialize in secure, high-performance, AI-Powered Web and Mobile applications.
