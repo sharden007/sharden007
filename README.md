@@ -23,7 +23,7 @@ Below is a list of our public documentation and release notes for some of our re
 ### 🚀 [AGM Optimizer]
 *Revolutionary machine learning optimizer that achieves 98.38% loss reduction, 15-20% faster convergence than Adam.*
 * **Status:** In Development  Patent Pending!!
-* **Documentation:** [View Public Mirror]([https://github.com/sharden007/Project-Two-Public](https://github.com/sharden007/AGM-Optimizer))
+* **Documentation:** [View Public Mirror](https://github.com/sharden007/Project-Two-Public](https://github.com/sharden007/AGM-Optimizer)
 
 ---
 
