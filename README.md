@@ -17,13 +17,13 @@ Below is a list of our public documentation and release notes for some of our re
 ### 🏥 HealthCare Buddy
 *A comprehensive health tracking solution for Android.*
 * **Status:** Live on Google Play
-* **Documentation:** [View release notes & Privacy Policy](https://github.com/sharden007/HealthCare_Buddy-Public)
+* **Rep/Documentation:** (https://github.com/sharden007/HealthCare_Buddy-Public)
 * **Tech:** Kotlin, Jetpack Compose, Room DB.
 
 ### 🚀 [AGM Optimizer]
 *Revolutionary machine learning optimizer that achieves 98.38% loss reduction, 15-20% faster convergence than Adam.*
 * **Status:** In Development  Patent Pending!!
-* **Documentation:** [View Public Mirror](https://github.com/sharden007/AGM-Optimizer)
+* **Repo/Documentation:** (https://github.com/sharden007/AGM-Optimizer)
 
 ---
 
