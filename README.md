@@ -15,14 +15,14 @@ We are a specialized engineering firm focused on the intersection of high-perfor
 Below is a list of our public documentation and release notes for some of our recent projects.
 
 ### 🏥 HealthCare Buddy
-*A comprehensive health tracking solution for Android.*
+*A comprehensive medical health records tracking solution for Android.*
 * **Status:** Live on Google Play
 * **Repo/Documentation:** (https://github.com/sharden007/HealthCare_Buddy-Public)
 * **Tech:** Kotlin, Jetpack Compose, Room DB.
 
 ### 🚀 [AGM Optimizer]
 *Revolutionary machine learning optimizer that achieves 98.38% loss reduction, 15-20% faster convergence than Adam.*
-* **Status:** In Development  Patent Pending!!
+* **Status:** Testing Complete-Patent Pending!!
 * **Repo/Documentation:** (https://github.com/sharden007/AGM-Optimizer)
 * **Tech:** Python, PyTorch, Scikit-Learn
 
