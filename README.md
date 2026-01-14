@@ -17,7 +17,7 @@ Below is a list of our public documentation and release notes for some of our re
 ### 🏥 HealthCare Buddy
 *A comprehensive health tracking solution for Android.*
 * **Status:** Live on Google Play
-* **Rep/Documentation:** (https://github.com/sharden007/HealthCare_Buddy-Public)
+* **Repo/Documentation:** (https://github.com/sharden007/HealthCare_Buddy-Public)
 * **Tech:** Kotlin, Jetpack Compose, Room DB.
 
 ### 🚀 [AGM Optimizer]
