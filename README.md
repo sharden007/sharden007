@@ -90,12 +90,12 @@ I'm A highly skilled and organized Agile Software Developer and certified Projec
 
 #
 
-### 📊 Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vbncvb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vbncvb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vbncvb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharden007&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
+---
 #
 <!--
 <details>
