@@ -46,7 +46,7 @@ All our applications are developed with a "Privacy-First" architecture.
 * Zero unauthorized data collection policies.
 
 ## ✉️ Contact & Business Inquiries
-* **Website:** [www.yourllc.com](https://www.yourllc.com)
+* **Website:** [https://harden-ai.com/]
 * **Support Email:** [sharden007@gmail.com]
 * **LinkedIn:** [(https://www.linkedin.com/in/shawnharden/)}
 
