@@ -14,17 +14,25 @@ We are a specialized engineering firm focused on the intersection of high-perfor
 ## 📱 Our Applications
 Below is a list of our public documentation and release notes for some of our recent projects.
 
-### 🏥 HealthCare Buddy
-*A comprehensive medical health records tracking solution for Android.*
-* **Status:** Google Play - Feb 2026
-* **Repo/Documentation:** (https://github.com/sharden007/HealthCare_Buddy-Public)
-* **Tech:** Kotlin, Jetpack Compose, Room DB.
-
 ### 🚀 [AGM Optimizer]
 *Revolutionary machine learning optimizer that achieves 98.38% loss reduction, 15-20% faster convergence than Adam.*
 * **Status:** Active-Patent Pending!!
 * **Repo/Documentation:** (https://github.com/sharden007/AGM-Optimizer)
 * **Tech:** Python, PyTorch, Scikit-Learn
+
+### $$ [Forex Fusion Pro]
+*Revolutionary machine learning optimizer that achieves 98.38% loss reduction, 15-20% faster convergence than Adam.*
+* **Status:** Active-Patent Pending!!
+* **Repo/Documentation:** [(https://github.com/sharden007/AGM-Optimizer)](https://github.com/sharden007/Forex_Fusion)]
+* **Website:** (https://jagforex.com/)
+* **Tech:** MQL4, MQL5, Python (Pandas/NumPy), Algorithmic Trading
+
+  
+### 🏥 HealthCare Buddy
+*A comprehensive medical health records tracking solution for Android.*
+* **Status:** Google Play - Feb 2026
+* **Repo/Documentation:** (https://github.com/sharden007/HealthCare_Buddy-Public)
+* **Tech:** Kotlin, Jetpack Compose, Room DB.
 
 ---
 
