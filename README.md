@@ -19,6 +19,7 @@ Below is a list of our public documentation and release notes for some of our re
 * **Status:** Active-Patent Pending!!
 * **Repo/Documentation:** (https://github.com/sharden007/AGM-Optimizer)
 * **Tech:** Python, PyTorch, Scikit-Learn
+---
 
 ### $$ [Forex Fusion Pro]
 *Advanced automatic algorithmic trading solution for the MetaTrader platform*
@@ -26,7 +27,7 @@ Below is a list of our public documentation and release notes for some of our re
 * **Repo/Documentation:** [(https://github.com/sharden007/AGM-Optimizer)](https://github.com/sharden007/Forex_Fusion)]
 * **Website:** (https://jagforex.com/)
 * **Tech:** MQL4, MQL5, Python (Pandas/NumPy), Algorithmic Trading
-
+---
   
 ### 🏥 HealthCare Buddy
 *A comprehensive medical health records tracking solution for Android.*
