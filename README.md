@@ -76,8 +76,8 @@ I am Shawn R. Harden, an AI/ML Engineer and Agile Software Developer with over 2
 
 * **AGM Optimizer (Patent Pending):** A proprietary machine learning optimization algorithm designed for high-performance benchmarking. Architected to run seamlessly across scalable cloud environments and local, edge-hardware clusters (including Raspberry Pi 4).  (https://github.com/sharden007/AGM-Optimizer)
 * **Forex Fusion Pro:** An automated Forex trading system (Expert Advisor) engineered for low-latency execution, advanced algorithmic market analysis, and rigorous risk management. (https://www.jagforex.com)
-* **Sat_Trak:** A native Android application leveraging Augmented Reality (AR) for real-time satellite tracking and visualization.
-* **Healthcare Buddy:** A comprehensive utility and health-tracking mobile application, successfully deployed to the Google Play Store (February 2026). (https://github.com/sharden007/HealthCare_Buddy-Public)
+* **Sat_Trak:** A native Android application leveraging Augmented Reality (AR) for real-time satellite tracking and visualization. (https://github.com/sharden007/Sat_Trak)
+* **Healthcare Buddy:** A comprehensive utility and health-tracking mobile application, successfully deployed to the Google Play Store (March 2026). (https://github.com/sharden007/HealthCare_Buddy-Public)
 
 ---
 
